@@ -1,0 +1,22 @@
+{
+    "phoneNumberToSend": "+573227217725",
+    "Message":"Mensaje Compartir Url",
+    "CredentialsFileLocation": "rbm-blipblip-test-agen-xuawowi-991a09bbef33_20210105.json",
+    "ProjectId": "807557846958",
+    "contentMessageurl": 
+    {
+        "text": "Hola desde RCS Compartiendo la Siguiente url",
+        "suggestionsurl": [
+        {
+            "actionurl": 
+            {
+                "text": "Open Google",
+                "postbackData": "ewogICJzZW5kZXJQaG9uZU51bWJlciI6ICIrNTczMjI3MjE3NzI1IiwKICAibWVzc2FnZUlkIjogIk1zQzU0Z1BlSW5SN21uUkZoRW1WN2pKdyIsCiAgInNlbmRUaW1lIjogIjIwMjEtMDEtMTZUMDU6NTc6MjYuMDg5NzAxWiIsCiAgInRleHQiOiAiUXVlIHBhc2EiCn0=",
+                "openActionUrl":
+                {
+                    "url": "https://www.google.com"
+                }
+            }
+        }]
+    }
+}
