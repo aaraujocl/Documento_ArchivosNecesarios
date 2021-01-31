@@ -1,0 +1,5 @@
+{
+    "phoneNumberToSend": "+573227217725",
+    "CredentialsFileLocation": "rbm-blipblip-test-agen-xuawowi-991a09bbef33_20210105.json",
+    "ProjectId": "807557846958"
+}
