@@ -1,0 +1,15 @@
+{
+    "phoneNumberToSend": "+573227217725",
+    "Message":"Mensaje upload Imagen",
+    "CredentialsFileLocation": "rbm-blipblip-test-agen-xuawowi-991a09bbef33_20210105.json",
+    "ProjectId": "807557846958",
+    "contentMessageUpload": 
+    {     
+       "contentInfoUpload": 
+       {
+           "fileUrl": "https://logos-marcas.com/wp-content/uploads/2020/09/Google-Logo.png",
+           "thumbnailUrl": "https://logos-marcas.com/wp-content/uploads/2020/09/Google-Logo.png",
+           "forceRefresh": "true"
+       }        
+    }
+}

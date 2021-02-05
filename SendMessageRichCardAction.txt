@@ -1,0 +1,44 @@
+{
+    "phoneNumberToSend": "+573227217725",
+    "Message":"Mensaje Rich Card",
+    "CredentialsFileLocation": "rbm-blipblip-test-agen-xuawowi-991a09bbef33_20210105.json",
+    "ProjectId": "807557846958",
+    "contentMessageRichaCard": 
+    {     
+        "standaloneCardRichCard": {
+            "thumbnailImageAlignment": "RIGHT",
+            "cardOrientationRichCard": {
+                "Orientation":"HORIZONTAL"
+            },
+            "cardContentRichCard": 
+            {
+                "title": "Hola desde RichCard Altura",
+                "description": "Pruebas de Cambios de Altura de Imagen",
+                "fileUrl": "https://logos-marcas.com/wp-content/uploads/2020/09/Google-Logo.png",
+                "forceRefresh": "false",
+                "mediaRichCard": 
+                {
+                    "fileName": "",
+                    "height": "TALL"                 
+                },
+                "suggestionsRichCard": 
+                [
+                    {
+                        "reply": 
+                        {
+                            "text": "Suggestion #1",
+                            "postbackData": "suggestion_1"
+                        }
+                    },
+                    {
+                        "reply": 
+                        {
+                            "text": "Suggestion #2",
+                            "postbackData": "suggestion_2"
+                        }
+                    }
+                ]
+            }
+        }        
+    }
+}

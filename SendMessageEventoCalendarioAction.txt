@@ -1,0 +1,24 @@
+{
+    "phoneNumberToSend": "+573227217725",
+    "Message":"Cita o Calendario",
+    "CredentialsFileLocation": "rbm-blipblip-test-agen-xuawowi-991a09bbef33_20210105.json",
+    "ProjectId": "807557846958",
+    "contentMessageeventocalendar": 
+    {
+        "suggestionseventocalendar": [
+        {
+            "actioneventocalendar": 
+            {
+                "text": "Prueba de funcionamiento",
+                "postbackData": "postback_data_1234",
+                "createEventCalendarAction": 
+                {
+                    "startTime": "2021-01-21T14:00:00Z",
+                    "endTime": "2021-01-21T14:30:00Z",
+                    "title": "Prueba de EndPoint",
+                    "description": "Evento de Calendario"
+                }
+            }
+        }]
+    }
+}
