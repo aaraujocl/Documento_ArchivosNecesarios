@@ -1,8 +1,0 @@
-{
-    "senderPhoneNumber": "+573227217725",
-    "messageId": "1919371484733886",
-    "sendTime": "2021-01-16T05:57:26.265Z",
-    "text": "Más y mas"  ,
-    "CredentialsFileLocation": "rbm-blipblip-test-agen-xuawowi-991a09bbef33_20210105.json",
-    "ProjectId": "807557846958"
-}
